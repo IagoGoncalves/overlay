@@ -1,0 +1,34 @@
+{
+    "name": "overlay/web",
+    "description": "ferramenta para uso no marketing digital",
+    "authors": [
+        {
+            "name": "antonioeidnadson",
+            "email": "antonioedinadson@gmail.com"
+        },
+
+        {
+            "name": "name",
+            "email": "email@email.com"
+        },
+
+        {
+            "name": "name",
+            "email": "email@email.com"
+        },
+
+        {
+            "name": "name",
+            "email": "email@email.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "core",
+            "Sts\\" : "app/sts"
+        }
+    },
+
+    "require": {}
+}
